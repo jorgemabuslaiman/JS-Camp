@@ -1,2 +1,2 @@
 # JS-Camp
-Camapmento de desarrollo web
+Campamento de desarrollo web
